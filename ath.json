@@ -1,0 +1,140 @@
+{
+  "size": 15,
+  "peoples": [
+    {
+      "country": "Russia",
+      "sport": "Biatlon",
+      "fio": "Zhmyshenko Andrei",
+      "l": 5,
+      "a": 8,
+      "f": 6,
+      "s": 7
+    },
+    {
+      "country": "Russia",
+      "sport": "Skeleton",
+      "fio": "Bukserenko Daniil",
+      "l": 6,
+      "a": 5,
+      "f": 7,
+      "s": 6
+    },
+    {
+      "country": "Japan",
+      "fio": "Uzumaki Naruto",
+      "sport": "Skeleton",
+      "l": 5,
+      "a": 7,
+      "f": 7,
+      "s": 9
+    },
+    {
+      "country": "Finland",
+      "fio": "Viren Lasse",
+      "sport": "Biatlon",
+      "l": 7,
+      "a": 7,
+      "f": 5,
+      "s": 5
+    },
+    {
+      "country": "France",
+      "sport": "Skating",
+      "fio": "Pogba Paul",
+      "l": 8,
+      "a": 6,
+      "f": 6,
+      "s": 5
+    },
+    {
+      "country": "Japan",
+      "fio": "Kodzima Hideo",
+      "sport": "Skating",
+      "l": 9,
+      "a": 5,
+      "f": 6,
+      "s": 6
+    },
+    {
+      "country": "Finland",
+      "fio": "Mullula Mika",
+      "sport": "Skating",
+      "l": 7,
+      "a": 6,
+      "f": 7,
+      "s": 6
+    },
+    {
+      "country": "Finland",
+      "fio": "Ahonen Yanne",
+      "sport": "IceSkating",
+      "l": 6,
+      "a": 5,
+      "f": 6,
+      "s": 8
+    },
+    {
+      "country": "France",
+      "fio": "Giroud Olivie",
+      "sport": "IceSkating",
+      "l": 7,
+      "a": 6,
+      "f": 5,
+      "s": 9
+    },
+    {
+      "country": "France",
+      "fio": "Benzema Karim",
+      "sport": "Skeleton",
+      "l": 6,
+      "a": 5,
+      "f": 8,
+      "s": 6
+    },
+    {
+      "country": "Russia",
+      "fio": "Petrov Ivan",
+      "sport": "IceSkating",
+      "l": 6,
+      "a": 8,
+      "f": 6,
+      "s": 10
+    },
+    {
+      "country": "Japan",
+      "fio": "Ken Kaneki",
+      "sport": "IceSkating",
+      "l": 6,
+      "a": 8,
+      "f": 5,
+      "s": 7
+    },
+    {
+      "country": "Canada",
+      "fio": "Shepard Jack",
+      "sport": "Skeleton",
+      "l": 6,
+      "a": 7,
+      "f": 7,
+      "s": 6
+    },
+    {
+      "country": "Canada",
+      "fio": "Ford James",
+      "sport": "Biatlon",
+      "l": 7,
+      "a": 7,
+      "f": 6,
+      "s": 6
+    },
+    {
+      "country": "Canada",
+      "fio": "Lock Benjamin",
+      "sport": "Skating",
+      "l": 7,
+      "a": 5,
+      "f": 6,
+      "s": 7
+    }
+  ]
+}
